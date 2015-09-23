@@ -1,23 +1,18 @@
 # uip-prog3
 Programación de Computadoras III - UIP
-Autor: Johny Castillo
 
-Fecha: 09-22-2015
+Johny Castillo
+
+09-22-2015
 
 Versión: 1.0
 
+Programación de Computadoras III - UIP
 
 
 
-<descripcion>
 
 
 
 
-—-------
 
-Licencia
-
-—-------
-
-<licencia>
